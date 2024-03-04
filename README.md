@@ -1,4 +1,5 @@
 test 1 of codeql default scan
+test 2 of codeql default scan(Advanced Security not allowed on this org)
 
 # Code Scanning Python Tutorial
 
